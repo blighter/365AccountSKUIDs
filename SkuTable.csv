@@ -1,0 +1,160 @@
+SKUPARTNUMBER,SKU Name
+AAD_BASIC,Azure Active Directory Basic
+AAD_PREMIUM,Azure Active Directory Premium P1
+AAD_PREMIUM_P2,Azure Active Directory Premium P2
+ATP_ENTERPRISE,Office 365 Advanced Threat Protection (Plan 1)
+BUSINESS_VOICE,Microsoft Business Voice (United Kingdom)
+BUSINESS_VOICE_DIRECTROUTING,Microsoft Business Voice (without Calling Plan)
+BUSINESS_VOICE_DIRECTROUTING _MED,Microsoft Business Voice (without Calling Plan) for the United States
+BUSINESS_VOICE_MED,Microsoft Business Voice (Canada)
+BUSINESS_VOICE_MED2,Microsoft Business Voice (United States)
+CCIBOTS_PRIVPREV_VIRAL,Dynamics 365 AI For Customer Service Virtual Agents Viral SKU
+CRMPLAN2,Microsoft Dynamics CRM Online Basic
+CRMSTANDARD,Microsoft Dynamics CRM Online
+DESKLESSPACK,Office 365 F1
+DESKLESSPACK,Office 365 F3
+DEVELOPERPACK,Office 365 Enterprise E3 Developer
+DEVELOPERPACK,Office 365 E3 Developer
+DYN365_ ENTERPRISE _RELATIONSHIP_SALES,Microsoft Relationship Sales Solution
+DYN365_AI_SERVICE_INSIGHTS,Dynamics 365 Customer Service Insights Trial
+DYN365_ENTERPRISE_CUSTOMER_SERVICE,Dynamics 365 For Customer Service Enterprise Edition
+DYN365_ENTERPRISE_P1_IW,Dynamics 365 P1 Trial For Information Workers
+DYN365_ENTERPRISE_PLAN1,Dynamics 365 Customer Engagement Plan Enterprise Edition
+DYN365_ENTERPRISE_SALES,Dynamics 365 For Sales Enterprise Edition
+DYN365_ENTERPRISE_SALES_CUSTOMERSERVICE,Dynamics 365 For Sales And Customer Service Enterprise Edition
+DYN365_ENTERPRISE_TEAM_MEMBERS,Dynamics 365 For Team Members Enterprise Edition
+DYN365_FINANCIALS_BUSINESS_SKU,Dynamics 365 For Financials Business Edition
+DYN365_TEAM_MEMBERS,Dynamics 365 Team Members
+DYNAMICS_365_FOR_OPERATIONS,Dynamics 365 Unf Ops Plan Ent Edition
+DYNAMICS_365_HIRING_SKU,Dynamics 365 For Talent: Attract
+DYNAMICS_365_ONBOARDING_SKU,Dynamics 365 For Talent: Onboard
+EMS,Enterprise Mobility + Security E3
+EMSPREMIUM,Enterprise Mobility + Security E5
+ENTERPRISEPACK,Office 365 Enterprise E3
+ENTERPRISEPACK,Office 365 E3
+ENTERPRISEPACK_USGOV_DOD,Office 365 E3 (US Gov DOD)
+ENTERPRISEPACK_USGOV_GCCHIGH,Office 365 E3 (US Gov GCC High)
+ENTERPRISEPREMIUM,Office 365 Enterprise E5
+ENTERPRISEPREMIUM,Office 365 E5
+ENTERPRISEPREMIUM_FACULTY,Office 365 A5 For Faculty
+ENTERPRISEPREMIUM_NOPSTNCONF,Office 365 Enterprise E5 Without Audio Conferencing
+ENTERPRISEPREMIUM_NOPSTNCONF,Office 365 E5 Without Audio Conferencing
+ENTERPRISEPREMIUM_STUDENT,Office 365 A5 For Students
+ENTERPRISEWITHSCAL,Office 365 Enterprise E4
+ENTERPRISEWITHSCAL,Office 365 E4
+EQUIVIO_ANALYTICS,Office 365 Advanced Compliance
+EXCHANGE_S_ESSENTIALS,Exchange Online Essentials
+EXCHANGEARCHIVE,Exchange Online Archiving For Exchange Server
+EXCHANGEARCHIVE_ADDON,Exchange Online Archiving For Exchange Online
+EXCHANGEDESKLESS,Exchange Online Kiosk
+EXCHANGEENTERPRISE,Exchange Online (Plan 2)
+EXCHANGEESSENTIALS,Exchange Online Essentials
+EXCHANGESTANDARD,Exchange Online (Plan 1)
+EXCHANGETELCO,Exchange Online Pop
+FLOW_FREE,Microsoft Flow Free
+FLOW_P2,Microsoft Flow Plan 2
+FORMS_PRO,Forms Pro Trial
+IDENTITY_THREAT_PROTECTION,Microsoft 365 E5 Security
+IDENTITY_THREAT_PROTECTION_FOR_EMS_E5,Microsoft 365 E5 Security For EMS E5
+INFORMATION_PROTECTION_COMPLIANCE,Microsoft 365 E5 Compliance
+INTUNE_A,Intune
+INTUNE_A_D,Microsoft Intune Device
+IT_ACADEMY_AD,Ms Imagine Academy
+LITEPACK,Office 365 Small Business
+LITEPACK_P2,Office 365 Small Business Premium
+M365_F1,Microsoft 365 F1
+M365_SECURITY_COMPLIANCE_FOR_FLW,Microsoft 365 Security And Compliance For Firstline Workers
+M365EDU_A1,Microsoft 365 A1
+M365EDU_A3_FACULTY,Microsoft 365 A3 For Faculty
+M365EDU_A3_STUDENT,Microsoft 365 A3 For Students
+M365EDU_A5_FACULTY,Microsoft 365 A5 For Faculty
+M365EDU_A5_STUDENT,Microsoft 365 A5 For Students
+MCOEV,Phone System
+MCOEV,Microsoft 365 Phone System
+MCOEV_DOD,Microsoft 365 Phone System For Dod
+MCOEV_FACULTY,Microsoft 365 Phone System For Faculty
+MCOEV_GCCHIGH,Microsoft 365 Phone System For GCC High
+MCOEV_GOV,Microsoft 365 Phone System For GCC
+MCOEV_STUDENT,Microsoft 365 Phone System For Students
+MCOEV_TELSTRA,Microsoft 365 Phone System For Telstra
+MCOEV_USGOV_DOD,Microsoft 365 Phone System (US Gov DOD)
+MCOEV_USGOV_GCCHIGH,Microsoft 365 Phone System (US Gov GCC High)
+MCOEVSMB_1,Microsoft 365 Phone System For Small And Medium Business
+MCOIMP,Skype For Business Online (Plan 1)
+MCOMEETACPEA,Audio Conferencing Pay Per Minute (pay as you go)
+MCOMEETADV,Audio Conferencing
+MCOPSTN1,"Domestic Calling Plan (3000 minutes per user/month for US/PR/CA, 1200 minutes per user/month for EU countries)"
+MCOPSTN2,Domestic and International Calling Plan
+MCOPSTN5,Domestic Calling Plan (120 minutes per user/month for each country)
+MCOPSTN6,Domestic Calling Plan (240 minutes per user/month for each country)
+MCOPSTNEAU,Telstra Calling For Office 365
+MCOPSTNEAU2,Telstra Calling For Office 365 2
+MCOPSTNPP,Communications Credits
+MCOSTANDARD,Skype For Business Online (Plan 2)
+MEETING_ROOM,Meeting Room
+MICROSOFT_BUSINESS_CENTER,Microsoft Business Center
+MICROSOFT_REMOTE_ASSIST,Dynamics 365 Remote Assist
+MIDSIZEPACK,Office 365 Midsize Business
+MMD_CORE_ITAAS,Microsoft Managed Desktop Core Itaas
+MMD_SUPPORT,Microsoft Managed Desktop End-User Support
+MS_TEAMS_IW,Microsoft Teams Trial
+O365_BUSINESS,Office 365 Business
+O365_BUSINESS,Microsoft 365 Apps For Business
+O365_BUSINESS_ESSENTIALS,Office 365 Business Essentials
+O365_BUSINESS_ESSENTIALS,Microsoft 365 Business Basic
+O365_BUSINESS_PREMIUM,Office 365 Business Premium
+O365_BUSINESS_PREMIUM,Microsoft 365 Business Standard
+OFFICESUBSCRIPTION,Office 365 ProPlus
+OFFICESUBSCRIPTION,Microsoft 365 Apps For Enterprise
+POWER_BI_ADDON,Power BI For Office 365 Add-On
+POWER_BI_PRO,Power BI Pro
+POWER_BI_STANDARD,Power BI (Free)
+POWERAPPS_INDIVIDUAL_USER,Microsoft PowerApps And Logic Flows
+POWERAPPS_PER_APP_IW,PowerApps Per App Baseline Access
+POWERAPPS_PER_USER,Power Apps Per User Plan
+POWERAPPS_VIRAL,Microsoft PowerApps Plan 2 Trial
+POWERAUTOMATE_ATTENDED_RPA,Power Automate Per User With Attended Rpa Plan
+POWERFLOW_P2,Microsoft PowerApps Plan 2
+PROJECT_MADEIRA_PREVIEW_IW_SKU,Dynamics 365 Business Central For Iws
+PROJECTCLIENT,Project For Office 365
+PROJECTESSENTIALS,Project Online Essentials
+PROJECTONLINE_PLAN_1,Project Online Premium Without Project Client
+PROJECTONLINE_PLAN_2,Project Online With Project For Office 365
+PROJECTPREMIUM,Project Online Premium
+PROJECTPROFESSIONAL,Project Online Professional
+RIGHTSMANAGEMENT,Azure Information Protection Plan 1
+RIGHTSMANAGEMENT_ADHOC,Rights Management Adhoc
+SHAREPOINTENTERPRISE,Sharepoint Online (Plan 2)
+SHAREPOINTSTANDARD,Sharepoint Online (Plan 1)
+SMB_APPS,Business Apps (Free)
+SMB_BUSINESS,Office 365 Business
+SMB_BUSINESS,Microsoft 365 Apps For Business
+SMB_BUSINESS_ESSENTIALS,Office 365 Business Essentials
+SMB_BUSINESS_ESSENTIALS,Microsoft 365 Business Basic
+SMB_BUSINESS_PREMIUM,Office 365 Business Premium
+SMB_BUSINESS_PREMIUM,Microsoft 365 Business Standard
+SPB,Microsoft 365 Business
+SPB,Microsoft 365 Business Premium
+SPE_E3,Microsoft 365 E3
+SPE_E3_USGOV_DOD,Microsoft 365 E3 (US Gov DOD)
+SPE_E3_USGOV_GCCHIGH,Microsoft 365 E3 (US Gov GCC High)
+SPE_E5,Microsoft 365 E5
+SPE_F1,Microsoft 365 F3
+SPZA_IW,App Connect
+SPZA_IW,App Connect Iw
+STANDARDPACK,Office 365 Enterprise E1
+STANDARDPACK,Office 365 E1
+STANDARDWOFFPACK,Office 365 Enterprise E2
+STANDARDWOFFPACK,Office 365 E2
+STREAM,Microsoft Stream Trial
+TEAMS_COMMERCIAL_TRIAL,Microsoft Teams Commercial Cloud (User Initiated)
+TEAMS_FREE,Microsoft Team (Free)
+VISIOCLIENT,Visio Online Plan 2
+VISIOONLINE_PLAN1,Visio Online Plan 1
+WACONEDRIVEENTERPRISE,Onedrive For Business (Plan 2)
+WACONEDRIVESTANDARD,Onedrive For Business (Plan 1)
+WIN_DEF_ATP,Microsoft Defender Advanced Threat Protection
+WIN10_PRO_ENT_SUB,Windows 10 Enterprise E3
+WIN10_VDA_E5,Windows 10 Enterprise E5
+WINDOWS_STORE,Windows Store
+WINDOWS_STORE,Windows Store For Business
